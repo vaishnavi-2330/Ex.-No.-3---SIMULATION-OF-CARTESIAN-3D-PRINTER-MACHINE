@@ -51,16 +51,12 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
-![alt text](11.png)
 
-![alt text](22.png)
-
-![alt text](33.png)
-
-![alt text](44.png)
-
-![alt text](<Screenshot (175).png>)
-
+<img width="1320" height="722" alt="11" src="https://github.com/user-attachments/assets/9a2af45b-0ed8-491a-8075-3dfcbe99e9ee" />
+<img width="1335" height="742" alt="22" src="https://github.com/user-attachments/assets/c94e19c3-80d9-4d4a-bab9-3e01754d3669" />
+<img width="1441" height="800" alt="33" src="https://github.com/user-attachments/assets/a987ca80-0949-405d-aa34-a0b46a6a490c" />
+<img width="1367" height="773" alt="44" src="https://github.com/user-attachments/assets/362cde0a-1102-4bd3-9fbc-34c395d40dca" />
+<img width="1920" height="1080" alt="Screenshot (175)" src="https://github.com/user-attachments/assets/4c4f8020-b39b-4b8f-a00f-ba1fefebd220" />
 
 ### Name: Vaishnavi T
 ### Register Number: 212225100057
